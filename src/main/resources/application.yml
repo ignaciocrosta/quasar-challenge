@@ -1,0 +1,21 @@
+application:
+ satellites:
+  -
+   position:
+    x: -500.0
+    y: -200.0
+   name: Kenobi
+  -
+   position:
+    x: 100.0
+    y: -100.0
+   name: Skywalker
+  -
+   position:
+    x: 500.0
+    y: 100.0
+   name: Sato
+
+server:
+ error:
+  include-message: always
