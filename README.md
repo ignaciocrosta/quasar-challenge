@@ -21,7 +21,7 @@ GetMessage: Recibe mensajes incompletos y resuelve el mensaje original
 ## Modelo
 ### Paquetes
 
-![Screenshot](https://github.com/ignaciocrosta/quasar-challenge/blob/master/doc/Paquetes.PNG?raw=true)
+![Screenshot](https://github.com/ignaciocrosta/quasar-challenge/blob/main/doc/Paquetes.PNG?raw=true)
 
 * El paquete *configuration* contiene el la clase ApplicationYml.Java, la que inicializa la información de los satélites según el archivo de configuración Applicacion.yml
 * El paquete *models* contiene las clases que representan al modelo
@@ -32,7 +32,7 @@ GetMessage: Recibe mensajes incompletos y resuelve el mensaje original
 
 * El diagrama de clases es el siguiente:
 
-![Screenshot](https://github.com/ignaciocrosta/quasar-challenge/blob/master/doc/Clases.PNG?raw=true)
+![Screenshot](https://github.com/ignaciocrosta/quasar-challenge/blob/main/doc/Clases.PNG?raw=true)
 
 ### Tecnología
 * Se utiliza para el desarrollo Spring boot 2.4.2 y java 11.0.9
