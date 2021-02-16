@@ -59,7 +59,7 @@ GetMessage: Recibe mensajes incompletos y resuelve el mensaje original
 ```bash
 	git clone https://github.com/ignaciocrosta/quasar-challenge.git
 	cd quasar-challenge
-	java -jar target/quasar-challenge.jar
+	java -jar quasar-challenge.jar
 ```
 
 * Listo para ser utilizado http://localhost:8080/
