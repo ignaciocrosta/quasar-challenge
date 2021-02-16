@@ -54,9 +54,11 @@ GetMessage: Recibe mensajes incompletos y resuelve el mensaje original
 	java -jar target/quasar-challenge.jar
 ```
 
-* Adicionalmente se disponibiliza el archivo .jar ya compilado para su ejecución.
+* Para ejecutar (.jar ya compilado):
 
 ```bash
+	git clone https://github.com/ignaciocrosta/quasar-challenge.git
+	cd quasar-challenge
 	java -jar target/quasar-challenge.jar
 ```
 
